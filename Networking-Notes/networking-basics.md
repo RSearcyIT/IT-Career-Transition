@@ -25,12 +25,19 @@ DNS (Domain Name System) translates website names into IP addresses
 Example:
 google.com-> IP address
 ## What I'm Learning
-Networking Fundamentals
-TCP/IP
-DNS
-DHCP
-Routing and Switching
-GitHub Documentation
+
+- Networking Fundamentals
+  
+- TCP/IP
+  
+- DNS
+  
+- DHCP
+  
+- Routing and Switching
+  
+- GitHub Documentation
+  
 ## DHCP
 DHCP (Dynamic Host Configuration Protocol) automatically assigns IP addresses to devices on a network
 Example:
