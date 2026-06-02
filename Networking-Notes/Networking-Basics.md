@@ -1,5 +1,18 @@
 # Networking Basics
 
+## What I'm Learning
+
+- Networking Fundamentals
+  
+- TCP/IP
+  
+- DNS
+  
+- DHCP
+  
+- Routing and Switching
+  
+- GitHub Documentation
 ## What is a Network?
 
 A network is a group of devices connected together so they can communicate and share resources.
@@ -24,19 +37,7 @@ A switch connects devices within the same local network
 DNS (Domain Name System) translates website names into IP addresses
 Example:
 google.com-> IP address
-## What I'm Learning
 
-- Networking Fundamentals
-  
-- TCP/IP
-  
-- DNS
-  
-- DHCP
-  
-- Routing and Switching
-  
-- GitHub Documentation
   
 ## DHCP
 DHCP (Dynamic Host Configuration Protocol) automatically assigns IP addresses to devices on a network
