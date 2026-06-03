@@ -51,3 +51,21 @@ When would you choose TCP over UDP?
 TCP is preferred when reliability is more important than speed, such as file transfers and web traffic.
 
 UDP is preferred when speed is more important than perfect delivery, such as streaming and gaming.
+
+## Quick Memory Trick
+
+TCP = Accuracy
+
+- Reliable
+  
+- Ordered
+  
+- Error checking
+
+UDP = Speed
+
+- Faster
+  
+- Lower latency
+  
+- Some packets can be lost
