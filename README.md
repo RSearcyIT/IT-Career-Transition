@@ -39,17 +39,17 @@ Topics covered include:
 
 Current certifications and course completions include:
 
-- Alison Diploma in Software Testing
-  
-- Alison Theory of Software Testing
-  
-- Alison Introduction to Software Testing
-  
-- Simplilearn Introduction to Cybersecurity
-  
-- Simplilearn Ethical Hacking 101
+- [Alison Diploma in Software Testing](./Certificates/Alison_Diploma-Diploma%20In%20Software%20Testing.pdf)
 
-Certificates are stored in the **Certificates** folder.
+- [Alison Theory of Software Testing](./Certificates/Alison_Certificate-Theory%20of%20Software%20Testing.pdf)
+
+- [Alison Introduction to Software Testing](./Certificates/Alison_Certificate-Introduction%20To%20Software%20Testing.pdf)
+
+- [Simplilearn Introduction to Cybersecurity](./Certificates/Simplilearn-Introduction%20To%20Cybersecurity.pdf)
+
+- [Simplilearn Ethical Hacking 101](./Certificates/Simplilearn-Ethical%20Hacking%20101%20(Beginners%20Guide).pdf)
+
+Certificates are stored in the Certificates folder and can be viewed by clicking the links above.
 
 ---
 
