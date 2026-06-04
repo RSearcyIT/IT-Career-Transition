@@ -9,7 +9,25 @@ I am a CAD Programmer with a strong interest in technology and problem-solving. 
 This repository serves as a portfolio of my learning journey and technical development.
 
 ---
+## Current Focus
 
+I am currently studying:
+
+- Networking Fundamentals
+  
+- TCP/IP
+  
+- DNS
+  
+- DHCP
+  
+- IT Troubleshooting
+  
+- Quality Assurance Testing
+  
+- Cybersecurity Fundamentals
+
+---
 ## Networking Notes
 
 ### Fundamentals
@@ -35,6 +53,20 @@ Topics covered include:
 
 ---
 
+## Goals
+
+- Transition into IT Support, QA, Networking, or Technical Operations
+  
+- Build a strong technical portfolio
+  
+- Earn industry-recognized certifications
+
+- Continue documenting and sharing my learning journey
+
+---
+
+
+
 ## Certifications
 
 Current certifications and course completions include:
@@ -53,37 +85,7 @@ Certificates are stored in the Certificates folder and can be viewed by clicking
 
 ---
 
-## Current Focus
 
-I am currently studying:
-
-- Networking Fundamentals
-  
-- TCP/IP
-  
-- DNS
-  
-- DHCP
-  
-- IT Troubleshooting
-  
-- Quality Assurance Testing
-  
-- Cybersecurity Fundamentals
-
----
-
-## Goals
-
-- Transition into IT Support, QA, Networking, or Technical Operations
-  
-- Build a strong technical portfolio
-  
-- Earn industry-recognized certifications
-
-- Continue documenting and sharing my learning journey
-
----
 
 ## Connect
 
