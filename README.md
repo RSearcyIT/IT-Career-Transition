@@ -71,11 +71,11 @@ Topics covered include:
 
 Current certifications and course completions include:
 
-- [Alison Diploma in Software Testing](./Certificates/Alison_Diploma-Diploma%20In%20Software%20Testing.pdf)
+- [Alison Introduction to Software Testing](./Certificates/Alison_Certificate-Introduction%20To%20Software%20Testing.pdf)
 
 - [Alison Theory of Software Testing](./Certificates/Alison_Certificate-Theory%20of%20Software%20Testing.pdf)
 
-- [Alison Introduction to Software Testing](./Certificates/Alison_Certificate-Introduction%20To%20Software%20Testing.pdf)
+- [Alison Diploma in Software Testing](./Certificates/Alison_Diploma-Diploma%20In%20Software%20Testing.pdf)
 
 - [Simplilearn Introduction to Cybersecurity](./Certificates/Simplilearn-Introduction%20To%20Cybersecurity.pdf)
 
