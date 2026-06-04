@@ -89,5 +89,4 @@ Certificates are stored in the Certificates folder and can be viewed by clicking
 
 ## Connect
 
-GitHub Profile:
-https://github.com/RSearcyIT
+GitHub Profile: [RSearcyIT](https://github.com/RSearcyIT)
