@@ -51,4 +51,5 @@ IP = addressing and routing
 Routers connect different networks together and direct traffic between them
 Example:
 A home router connects your local network to the internet
+
 Created by: Ricardo O. Searcy
