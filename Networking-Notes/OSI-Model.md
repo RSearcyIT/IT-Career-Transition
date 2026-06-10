@@ -65,7 +65,7 @@ Examples:
 ## Layer 1 - Physical
 Physical transmission of data.
 
-Exwmples:
+Examples:
 
 - Ethernet Cables
   
